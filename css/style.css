@@ -50,13 +50,13 @@
 .btn-primary {
     background: #00454F;
     border-color: #00454F;
-    color: #fff;
+    color: #f9f9f9;
 }
 
 .btn-primary:hover {
     background: #00606d;
     border-color: #00606d;
-    color: #fff;
+    color: #f9f9f9;
 }
 
 .btn-square {
